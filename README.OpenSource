@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "angle",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "a96fca8d5ee2ca61e8de419e38cd577579281c9e",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/angle/angle.git@a96fca8d5ee2ca61e8de419e38cd577579281c9e",
+        "Description": "第三方软件angle，OpenGL ES到平台原生GPU API的转换层"
+    }
+]
